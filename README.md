@@ -1,12 +1,12 @@
- # Hi, I'm Munir 👋
+# Hi, I'm Munir 👋
 
 Junior Software Developer based in Austria.
 
 I recently completed my Ausbildung at CodersBay as a Software Developer.
-
 I enjoy logical thinking, structured work, and solving real-world problems.
 
-I am especially interested in combining programming with economics and finance.
+I’m especially interested in combining programming with economics and finance.
+
 
 ## Tech Stack
 - Java
