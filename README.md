@@ -16,5 +16,6 @@ I’m especially interested in combining programming with economics and finance.
 - OOP
 - Data Structures
 - Basic Web Development
+- Automation & Smart Agents (n8n)
 
 Currently looking for a Junior Developer position.
